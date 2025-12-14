@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホントの足跡",
+  "base_artist": "文野環",
+  "createdAt": "2025-12-14T06:06:32.996124Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホントの足跡",
+      "artist": "文野環",
+      "has_synced": false,
+      "path": "select/pl_01_ホントの足跡_文野環.txt"
+    }
+  ]
+}
